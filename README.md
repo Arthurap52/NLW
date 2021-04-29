@@ -11,8 +11,10 @@
   <a href="#-license">License</a>
 </p>
 
-[![NPM](https://img.shields.io/apm/l/license)](https://github.com/Arthurap52/Mylab/blob/master/LICENSE)
-
+<p align="center">
+  [![NPM](https://img.shields.io/npm/l/license)](https://github.com/Arthurap52/NLW4-move-on/blob/main/LICENSE)
+  
+ </p>
 
 <br>
 
