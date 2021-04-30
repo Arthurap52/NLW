@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Move.it" title="Move.it" src="readme/layout-moveon.png" />
+    <img alt="Move.on" title="Move.on" src="readme/layout-moveon.png" />
 </h1>
 
 <p align="center">
@@ -19,7 +19,7 @@
 <br>
 
 <p align="center">
-  <img alt="Moveit" src="readme/favicon.png" width="120px">
+  <img alt="Moveon" src="readme/favicon.png" width="120px">
 </p>
 
 ## 🧪 Technologies
@@ -32,7 +32,7 @@ This project was developed using the following technologies:
 
 ## 🔥 Preview
 
-[![Deploy with Vercel](https://vercel.com/button)](https://move-it-ruby-one.vercel.app/)
+[![Deploy with Vercel](https://vercel.com/button)](https://moveit-five-snowy.vercel.app)
 
 ## 🚀 Getting started
 
@@ -53,7 +53,7 @@ $ yarn dev
 
 ## 💻 Project
 
-[Move.it](https://move-it-guilhermecapitao.vercel.app/) came to remind you to exercise always! 💜 
+[Move.it](https://moveit-five-snowy.vercel.app) came to remind you to exercise always!  
 
 This is a project developed during the **[Next Level Week](https://nextlevelweek.com/)**, presented by **[@Rocketseat](https://github.com/Rocketseat)** during February 22-28, 2021.
 
