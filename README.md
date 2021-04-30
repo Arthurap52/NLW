@@ -32,7 +32,7 @@ This project was developed using the following technologies:
 
 ## 🔥 Preview
 
-[![Deploy with Vercel](https://vercel.com/button)](https://moveit-five-snowy.vercel.app)
+[![Deploy with Vercel](https://vercel.com/button)](https://moveit-arthurap52.vercel.app)
 
 ## 🚀 Getting started
 
@@ -53,7 +53,7 @@ $ yarn dev
 
 ## 💻 Project
 
-[Move.on](https://moveit-five-snowy.vercel.app) came to remind you to exercise always!  
+[Move.on](https://moveit-arthurap52.vercel.app) came to remind you to exercise always!  
 
 This is a project developed during the **[Next Level Week](https://nextlevelweek.com/)**, presented by **[@Rocketseat](https://github.com/Rocketseat)** during February 22-28, 2021.
 
